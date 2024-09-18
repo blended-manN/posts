@@ -22,6 +22,26 @@ body {
     border-radius: 25px;
 }
 
+.button a{
+    width: 50%;
+    display:flex;
+    border-radius: 25px;
+    justify-content: center;
+    background-color: indianred;
+    color: antiquewhite;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size:30px;
+    margin-top: 30px;
+    margin-inline: auto;
+}
+
+.button a:hover{
+    background-color: aliceblue;
+    color: palevioletred;
+}
+
 .row{
     display: flex;
     justify-content: space-between;
