@@ -16,6 +16,8 @@ body {
     padding: 10px;
     height: fit-content;
     margin-inline: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
     background-color: antiquewhite;
     color: indianred;
     text-align: center;
