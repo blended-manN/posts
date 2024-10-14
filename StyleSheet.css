@@ -6,6 +6,10 @@ body {
     color: antiquewhite;
 }
 
+video:picture-in-picture{
+    border-radius:25px;
+}
+
 .header{
     background-color: antiquewhite;
     padding: 15px;
